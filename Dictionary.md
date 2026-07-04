@@ -22,7 +22,7 @@
  i' *· each of*
  ү' *· some of*
 
-год *· place · be somewhere*
+год *· place · put / grab*
 гøдә *· world · worldsurf*
 
 дук *· data · manage data · data-clarity*
@@ -30,7 +30,8 @@
 чымб *· number · dial · calculatability*
 ґарй *· sequence · type*
 угырык *· group · group · groupfulness*
-об *· state · be · ability to be*
+оң *· state · be · ability to be*
+jєд *· similarity · be similar*
 
 пеq *· home · stay home · home connectivity*
 iҫве *· transferrable thing · transfer · transferability*
@@ -40,15 +41,19 @@ iҫве *· transferrable thing · transfer · transferability*
 vøт *· weot · current · conductivity*
 iфрә *· teleport definition · teleport · teleportability*
 лөо *· time · tick · duration*
+лøжй *· eternity*
 бєсҫер *· danger · cause harm · dangerousness*
 зiе *· beam · radiate · beam hardness*
 qимхи *· levitation · fly · levitatability*
-хөрк *· food · eat · edibility*
+хяр *· food · eat · edibility*
 бәјә *· trampoline · bounce · bounciness*
 һорфо *· wind · blow · wind strength*
 ҫiнква *· temple · bless · religiousness*
-үк *· thought · think · deep-thinking*
-юкй *· explanation · explain · elaborativity*
+вүк *· thought · think · deep-thinking*
+вокй *· explanation · explain · elaborativity*
+віq *· understanding · understand*
+вәҙ *· knowledge · know*
+вэєт *· learning · learn*
 рi *· save file · save · thriftiness*
 зø *· loadable content · load · mouthity*
 аслө *· salt · sprinkle · word-clinginess*
@@ -68,37 +73,38 @@ iстiр *· needle · sting · terrifyingness*
 сєбҙе *· purple*
 яммиң *· pink*
 нэqет *· brown*
-ик *· white*
+илк *· white*
 ашфо *· gray*
 ңоҙ *· black*
 
 ка *· action · do*
 кøе *· action state · pause/continue*
-кiн *· task · execute*
+кiш *· task · execute*
 
 тас *· switch*
 diр *· speed · ? · velocity*
 һоиш *· message · message · talkativity*
-оҫҫор *· motion · move*
+үң *· motion · move*
 каjба *· fluctuation · shake*
 тиэт *· app · launch*
-саҙоң *· seed · plant*
+сиҙ *· seed · plant*
+сияфтә *· flower · bloom*
 бан *· wall · barricade · blockage*
-шуод *· cost · cost*
+шоад *· cost · cost*
 итрім *· protection · protect · safety*
 өddо *· deliver · deliver*
 аиж *· important obj · be important · importantness*
-ңиел *· something new · update*
+нид *· change · change*
+ниел *· something new · update*
 лауп *· something old · deprecate*
-аjйла *· speak*
+алла *· speak*
 саџя *· something revealed · reveal*
 огга *· something hidden · hide*
 за *· agreement · agree · correctness*
 бу *· declinement · deny*
-зя *· truth*
-бю *· lie*
 шодие *· cache*
-кø *· existence · exist / create / remove*
+ңүө *· existence · exist / create / remove*
+ңеж *· workstate · work / repair / break*
 хез *· sound*
 әсешь *· video*
 лтүр *· draft*
@@ -116,7 +122,7 @@ qом *· morning · wake up*
 иршә *· date*
 перех *· month*
 чоґ *· year · age · elder*
-інд *· name · name*
+ід *· name · name*
 ҫук *· tag · tag*
 эqхєл *· warmth · heat up · temperature*
 гулт *· juice*
@@ -125,20 +131,22 @@ qом *· morning · wake up*
 иоль *· check*
 әрсюң *· flex · bend · flex*
 чеүсәп *· excuse*
-ушшя *· power · have power (end having power = get tired)*
+борә *· power · have power (end having power = get tired)*
+буqа *· activeness · wake up / sleep*
+ҫәб *· habit · habit / break habit*
 
 коктак *· basics*
 әзеи *· greeting*
 хуqо *· farewell*
 мєдәз *· thanks · thank*
-өсє *· question · ask*
+vэq *· question · ask / answer*
 һине *· please*
 жүз *· conjunction*
 зи *· and*
 та *· or*
 ова *· but*
 әве *· and (contrast)*
-vек *· already*
+тиек *· already*
 ду *· not*
 чаль *· then*
 түре *· otherwise*
@@ -147,11 +155,11 @@ vек *· already*
 qiнч *· until*
 күтта *· still*
 тылда *· preposition*
-ша *· on*
+шап *· on*
 сүр *· under*
 кен *· left*
 дыр *· right*
-сит *· up*
+џит *· up*
 лүр *· down*
 аим *· here*
 ыин *· nearby here*
@@ -169,9 +177,8 @@ qiнч *· until*
 зәп *· like/as if*
 диj *· which*
 саґып *· pile*
-поjак *· many*
-мыјя *· some*
-нијєк *· few*
+поjяк *· long*
+нијєк *· short*
 бает *· more*
 һолт *· only*
 сугран *· size*
@@ -188,7 +195,7 @@ qiнч *· until*
 форак *· logic*
 пырел *· verb*
 түт *· unknown*
-фоң *· posession · have*
+фоґ *· posession · have / get / give*
 жøт *· ability · can*
 ымы *· wish · want*
 золм *· desire · desire*
@@ -205,14 +212,13 @@ qозда *· process*
 тйы *· use · use*
 jалтыр *· fact*
 тот *· stop*
-укен *· pause*
-уjды *· go/come*
-акй *· walking · walk*
-онмо *· sight · see*
-эрґэ *· hearing · hear*
-әнфә *· smell · smell*
-vаз *· make*
-vезек *· creation · create*
+ирет *· pause*
+увар *· walking · walk*
+øввø *· sight · see*
+эґґэ *· hearing · hear*
+іффі *· smell · smell*
+џвүр *· building · build*
+џаq *· creation · create*
 малһи *· riding · ride*
 jозvа *· driving · drive*
 тиvңер *· touch · touch*
@@ -241,7 +247,6 @@ jязаме *· adoration · adore*
 креж *· fruit*
 кэз *· vegetable*
 дыкдар *· behavior*
-үжо *· human*
 мыкҫа *· mouse*
 сокро *· shyness*
 гәүтәт *· death*
@@ -262,7 +267,6 @@ vңодро *· abyss*
 ижлык *· weather*
 бырмо *· watermelon*
 ишид *· seed*
-зөп *· issuance · give*
 рэмча *· song · sing*
 доjҙ *· psycho*
 екыр *· inner force*
@@ -277,7 +281,7 @@ vңодро *· abyss*
 vңәмәлә *· character*
 ґит *· let*
 озкqо *· case*
-зүиф *· desert*
+зүиф *· sand*
 хомд *· pain*
 жэдһэ *· wound*
 зунш *· labor*
@@ -287,18 +291,15 @@ vңәмәлә *· character*
 өббө *· forbid · forbid*
 илди *· possibility*
 шун *· a couple*
-cыj *· approximate*
+cык *· approximate*
 иsури *· syringe*
-нøд *· interest · interest*
-вырй *· knowledge · know*
-вэєт *· learning · learn*
-бiq *· understanding · understand*
+моj *· interest · interest*
 jаз *· language*
 палойарңе *· language (self-name)*
 киньдэн *· plan*
 керәс *· village*
 изәп *· mountain*
-пачґ *· memory · remember*
+вюдю *· memory · remember / forget*
 бий *· hit · hit*
 өмдөко *· tracking · track*
 мөрөдар *· opponent*
@@ -307,8 +308,8 @@ jаз *· language*
 боырәк *· agility*
 рав *· habit*
 ичий *· association · associate*
-байак *· child*
-мөзбайак *· teenager*
+баjак *· child*
+мөзбаjак *· teenager*
 мөзбо *· adult*
 рисом *· hobby · engage*
 түмүн *· night*
@@ -320,7 +321,6 @@ jаз *· language*
 мек *· self*
 ерез *· error*
 эсок *· belief · believe*
-һөм *· sleep · sleep*
 зелєбыр *· worth*
 ҫэах *· feather*
 өлра *· literal*
@@ -347,10 +347,9 @@ jаз *· language*
 прошо *· acid*
 ҙоһәм *· secret*
 әреннән *· romance*
-һашь *· air*
+һашй *· air*
 тозчя *· tulpa*
 өхкүа *· wetness*
-vал *· movement · move*
 апҫар *· carrying · carry*
 манүк *· control · control*
 күалм *· acquaintance · acquaint*
@@ -386,12 +385,13 @@ vал *· movement · move*
 ардфи *· departure*
 ваксп *· fastening*
 cүнша *· belt*
-шөегит *· growth*
+ңамие *· growth · grow*
 аип *· height*
 сматва *· offer · offer*
 һэддал *· coolness*
-хын *· cold*
+хың *· cold*
 кин *· good*
+бун *· bad*
 дүлен *· pleasant*
 хаба *· people*
 будопак *· company*
@@ -408,10 +408,10 @@ sәх *· purchase · buy*
 иҫкы *· sand*
 ифqөда *· aviation*
 ифтредь *· airplane*
-хвиб *· life · live a life*
-хвушам *· residence · live somewhere*
+хви *· life · live a life*
+хвуше *· residence · live somewhere*
 дүркым *· problem*
-бєктег *· construction · build*
+бєктег *· scale*
 sурочь *· month*
 симри *· yellowness*
 зембла *· attach · attach*
@@ -425,7 +425,6 @@ sурочь *· month*
 аинеҙ *· vowel*
 торөдл *· hard*
 vңүвдү *· deep*
-зыш *· tooth*
 дикер *· jaw*
 омхи *· inhale*
 әлһа *· exhale*
@@ -454,14 +453,13 @@ iлдiм *· order · order*
 млав *· flow · flow*
 эсу *· realization · realize*
 әсәрпа *· proof · prove*
-дүскө *· writing · write*
-доскя *· print-type*
+скир *· writing · write*
+скәрй *· print-type*
 изiүк *· print*
 түкшүк *· boot*
-даvп *· seat · seat*
 депиз *· torture · torture*
 жакне *· painting*
-наŭраз *· neck*
+наґраз *· neck*
 күтра *· throat*
 һүдам *· slap*
 әлпш *· staying · stay*
@@ -472,7 +470,7 @@ iлдiм *· order · order*
 чоз *· remove · remove*
 уsо *· message*
 тыбs *· branch*
-со-/фэкvа *· covering*
+ерәт *· covering*
 исоар *· door*
 түктәнәү *· barricade · barricade*
 әпһаф *· ash*
@@ -493,7 +491,7 @@ sоґеп *· last*
 сүго *· significance · matter*
 ґоеш *· honesty*
 өрт *· spike*
-ләир *· palm*
+сәир *· palm*
 мнө *· particle · crumble*
 кеҫэ *· face*
 гил *· prepare · prepare*
@@ -510,7 +508,6 @@ sоґеп *· last*
 күст *· sky*
 астав *· half*
 ноб *· ball*
-вет *· take · take*
 сыйла *· throw · throw*
 мелє *· drink · drink*
 гәште *· blindness*
@@ -518,10 +515,11 @@ sоґеп *· last*
 эпсян *· surprise*
 әнiн *· level*
 ехет *· rank*
+дом *· holding · hold*
 нүндом *· placeholder*
 сәерлык *· monster*
-оҫол *· waiting · wait*
-кøшле *· tablet · take*
+лач *· waiting · wait*
+тоџ *· table · desk*
 өскруґ *· instruction*
 хøс *· health*
 выҫ *· joy · rejoice*
@@ -530,7 +528,7 @@ qадо *· redness · redden*
 шøлөө *· sadness*
 цотло *· step*
 џүр *· push*
-был *· friendship · befriend*
+былй *· friendship · befriend*
 ишпи *· fire*
 өнөйса *· dance · dance*
 jазка *· example*
@@ -541,6 +539,7 @@ jазка *· example*
 ҫыммы *· activity · activate*
 jуһыр *· punishment*
 иро *· sun*
+оңун *· moon
 sөк *· glass*
 sоґмо *· glasses*
 ҫогм *· boiling · boil*
@@ -557,8 +556,7 @@ vøжй *· loss · lose*
 укшиб *· squirrel*
 гөкца *· gnaw · gnaw*
 тукуд *· hardness*
-зәб *· tooth*
-бөрак *· strength*
+бөрачй *· strength*
 өйга *· egg*
 каныш *· shell*
 паjш *· branch*
@@ -570,36 +568,53 @@ vøжй *· loss · lose*
 iмәт *· image*
 хоjво *· citizenship*
 токлй *· main*
-үшqәк *· game*
-jам *· mother*
-jад *· father*
+үшрик *· game*
 жүп *· dick*
 иһлеп *· ass*
 оjн *· head*
 худа *· cunt*
 ежiе *· list · list*
 счедрә *· hunt · hunt*
-юдоң *· book · read*
+үкең *· book · read*
 зотежй *· meeting · meet*
 вøҙ *· see · eye*
+өч *· parent · inherit*
+шаиңа *· head · rule*
+дроҙ *· tooth*
+оччо *· taste · taste*
+соjар *· hand*
+јєзєл *· core*
+көнdo *· bone*
+һеjяжй *· skin*
+олй *· water*
+гертүд *· ground*
+бөкт *· stone*
+пур *· wood*
+ҙрә *· grass*
+леvш *· leaf*
+пие *· fish*
+qымы *· bird*
+аvір *· dog*
+мәңф *· cat*
+еллот *· cow*
+хиряб *· pig*
+капарс *· horse · gallop*
+dіжи *· run · run*
+
 
 ```
 сыйма
 кояжьма
-гамиритибø
 мөркөн
 жøкки
 өныр
 олтыр
 әсәрпә
-көнсdо
-cойар
 дормидәү
 талаида
 дөррүө
 өкинироса
 өнөми
-капарс
 көрөкөр
 көлңакт
 маvңиоз
@@ -620,10 +635,8 @@ cойар
 әвербә
 әзтвыр
 көнтавйјил
-аvырвыз
 гырпцыр
 торцґыр
-нүн
 диззә
 нүктүн
 нәнсәләґ
@@ -663,7 +676,6 @@ cойар
 ветjйалй
 сыгел
 оһоqбо
-баjна
 фырһ
 коздоvң
 пошкөд
@@ -673,5 +685,4 @@ cойар
 хаксуру
 койдүр
 салдыр
-меңа
 ```

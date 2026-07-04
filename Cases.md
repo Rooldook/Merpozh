@@ -28,7 +28,8 @@
 
 ` вø ` **evidence** *(I saw it — I tell you I saw it)*
 
-` ѕа ` **activation** *(like — likeable)*
+` dа ` **activation** *(like — likeable)*
+` di ` **accent** *(I saw it — **I** saw it.**)*
 
 ` чø ` **animate**
 ` чү ` **male** *(kid — boy)*
@@ -38,7 +39,7 @@
 #### Posess
 
 ` һ_ ` **subject** {+pronoun} *(cube — my cube)*
-` һй  ` **object** *(cube — cube's)*
+` һт  ` **object** *(cube — cube's)*
 
 ---
 #### Comparison
@@ -47,7 +48,7 @@
 ` нø ` **superlative** *(red — reddest)*
 
 ` ңа ` **against** *(me — faster **than me**)*
-` ңя ` **comparing** *(arrow — like an arrow)*
+` ңи ` **comparing** *(arrow — like an arrow)*
 
 ---
 #### Cases
@@ -69,13 +70,13 @@
 ` шя ` **tool** *(hand — using hand)*
 ` шү ` **without** *(heart — heartless)*
 
-` с ` **location** *(gate — inside the gate)*
-` ҫ ` **destination** *(gate — towards the gate)*
-` й_ ` **custom** {+preposition} *(gate — atop the gate)*
-`  а ` **this** *(gate — on/at this gate)*
-`  о ` **near** *(gate — near the gate)*
-`  ү ` **in** *(gate — inside the gate)*
-`  i ` **out** *(gate — outside of the gate)*
+` с_  ` **location** *(gate — inside the gate)*
+` ҫ_  ` **destination** *(gate — towards the gate)*
+` _й_ ` **custom** {+preposition} *(gate — atop the gate)*
+`  _а ` **this** *(gate — on/at this gate)*
+`  _о ` **near** *(gate — near the gate)*
+`  _ү ` **in** *(gate — inside the gate)*
+`  _i ` **out** *(gate — outside of the gate)*
 
 ---
 #### Question
@@ -83,3 +84,4 @@
 ` vо ` **known** *(who? — is that "who" known?)*
 ` vi ` **type** *(which? — "which" object is known, but what's its type?)*
 ` vю ` **trust** *(did you watch — is that true?)*
+

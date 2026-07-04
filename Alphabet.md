@@ -2,6 +2,9 @@
 
 ---
 
+Table structure:
+> Letter `IPA pronunciation` (**`Pronunciation upon Й (ʲ)`**)
+
 *Languages required: Bashkir, Macedonian, Danish.*
 
 ### Vowels

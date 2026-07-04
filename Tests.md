@@ -22,7 +22,15 @@
 %% The hunt on you is now open. Why did you let a hunt on yourself be started? %%
 - Иҫүкму.
 %% Don't enter. %%
-- Школҫакһо хi'теґє. Фоңкһа юдок ѕүлкһыјса. Хөрк-ымыкһø пиццара. Пеqкiнкчыһя саџлә. Ушшякдуһэ єңє. Вэєттєбһо.
+- Школҫакһо хi'теґє. Фоңкһа үкең dүлкһыјса. Хөрк-ымыкһø пиццара. Пеqкiнкчыһя саџлә. Борәкдуһэ єңє. Ңо-вэєттєкһо.
 %% I go to school every day. She's got a book in her bag. We wanna eat pizza. They can do homework in the evening. You're tired today. I'm a student. %%
 - 240/70 = бәд-күч-кыґ.
 %% Two-hundred forty seventy. %%
+- Вүккһо моjкһы. Ура мае-тйыкәһо.
+%% I think that’s interesting. I’d like to use that. %%
+- Д'уvо øҫо үңкла?
+%% What is this thing moving to us? %%
+- Иса-оңклһо лøжйлә. — Јєдкһа!
+%% I have always been here. — Him too! %%
+- Тоџса 2 скиршятє-оңку.
+%% На столе были 2 карандаша. %%

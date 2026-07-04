@@ -2,7 +2,7 @@
 
 ---
 
-   **0 · оң**
+   **0 · оv**
    **1 · ік**
    **2 · ад**
    **3 · єз**
@@ -14,10 +14,10 @@
    **9 · яҙ**
   10 · к-
  100 · б-
-1000 · {number}·{thousands amount}һ
+1000 · {number}·{thousands amount}п
 
 ` чы ` order *(first, second...)*
-` чүө ` order+ *(primary, secondary...)*
+` чоj ` order+ *(primary, secondary...)*
 ` чес ` combo *(solo, double, triple...)*
 
 ---
